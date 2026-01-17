@@ -1,16 +1,22 @@
-## Hi there 👋
+# 프로필
 
-<!--
-**m1ngu01/m1ngu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+문제 해결과 사용자 경험을 함께 고민하는 개발자입니다. 콘솔 앱부터 웹/데이터 기반 추천 서비스까지 다양한 실습 프로젝트를 통해 기반을 다졌습니다.
 
-Here are some ideas to get you started:
+## 기술 스택
+- Languages: Python, Java, C, TypeScript/JavaScript
+- Frontend: React, Vite, Tailwind CSS, MUI, Emotion, Axios, React Router
+- Backend: Flask, Flask-CORS, Pydantic, Firebase Admin, PyJWT, bcrypt
+- Data/ML: OpenCV, MediaPipe, gensim, KoNLPy, scikit-learn, pandas, numpy
+- Infra/DB: Firebase Firestore
+- Tools: Visual Studio, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 프로젝트 하이라이트
+- `recommend-gifts`: 설문/키워드 기반 선물 추천 서비스. 프론트(React+TS)와 백엔드(Flask), 추천 파이프라인(전처리~스코어링) 구성.
+- `ai-vision-process-control-practice/detecting_failling_ver1`: MediaPipe Pose와 OpenCV로 낙상 감지 실습. Tkinter GUI로 실시간 결과 제공.
+- `dcinside-study`: Java 소켓 기반 클라이언트/서버 통신 연습.
+- `dungeon-and-fighter-check-luck`: Python/discord.py 기반 디스코드 봇 및 계산 로직 실습.
+- `schudule-management`: C/Windows Console API 기반 일정·지출 관리 콘솔 프로그램.
+- `book-resale-project`: C 기반 중고책 거래/관리 콘솔 프로그램.
+
+## 알고리즘/문제해결
+- 백준: Silver II
