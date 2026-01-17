@@ -4,11 +4,10 @@
 
 ## 기술 스택
 - Languages: Python, Java, C, TypeScript/JavaScript
-- Frontend: React, Vite, Tailwind CSS, MUI, Emotion, Axios, React Router
-- Backend: Flask, Flask-CORS, Pydantic, Firebase Admin, PyJWT, bcrypt
+- Frontend: React, Vite, Tailwind CSS,
+- Backend: Flask, Firebase Admin
 - Data/ML: OpenCV, MediaPipe, gensim, KoNLPy, scikit-learn, pandas, numpy
 - Infra/DB: Firebase Firestore
-- Tools: Visual Studio, Git
 
 ## 프로젝트 하이라이트
 - `recommend-gifts`: 설문/키워드 기반 선물 추천 서비스. 프론트(React+TS)와 백엔드(Flask), 추천 파이프라인(전처리~스코어링) 구성.
